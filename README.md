@@ -7,7 +7,7 @@
 
 请你遵循Creative Commons Attribution ShareAlike 4.0协议(https://creativecommons.org/licenses/by-sa/4.0/) 
 
-在发布内容中明确标注来源并与我相同方式共享 
+在发布内容中明确标注来源并与我相同方式共享 (视频的音乐除外 视频的音乐请标注音乐作者和出处)
 
 否则我很不乐意再次共享工程 请不要成为那颗老鼠屎 谢谢
 
